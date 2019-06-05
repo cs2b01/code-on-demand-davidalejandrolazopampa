@@ -22,9 +22,11 @@ $(function(){
             sorting: true,
             paging: true
         },
+
         paging: {
             pageSize: 12
         },
+
         pager: {
             showPageSizeSelector: true,
             allowedPageSizes: [8, 12, 20]
